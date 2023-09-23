@@ -1,3 +1,11 @@
+*
+{
+    box-sizing: border-box;
+    margin: 100px;
+    background-color: bisque;
+
+}
+
 .header
 {
     color:brown;
